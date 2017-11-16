@@ -5,3 +5,4 @@ this is edited for a new branch feature1
 =======
 this is edited for a new branch feature1
 >>>>>>> featurel
+test for magment of branch
