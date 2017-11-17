@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 usage of git
 添加文件：git add/rm 文件名
 保存修改：git commit -m "注释内容"，如果注释内容过多，
@@ -9,3 +10,4 @@ usage of git
 切换分支： git checkout -b dev 创建并切换到新分支dev
 		   git branch dev 创建分支dev
 		   git checkout dev 切换到分支dev
+
