@@ -9,5 +9,5 @@ usage of git
 查看分支信息：git branch
 切换分支： git checkout -b dev 创建并切换到新分支dev
 		   git branch dev 创建分支dev
-		   git checkout dev 切换到分支dev
-
+		   git checkout dev
+发生冲突的话直接修改冲突文件后，再次提交即可
